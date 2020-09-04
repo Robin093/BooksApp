@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "BooksContext"
+    },
+    "mssql2": {
+      "type": "mssql",
+      "connectionId": "BooksAppContext"
+    }
+  }
+}
